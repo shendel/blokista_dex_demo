@@ -1,0 +1,39 @@
+{
+  "name": "Blokista",
+  "timestamp": "2022-05-28T04:52:56.475Z",
+  "version": {
+    "major": 2,
+    "minor": 16,
+    "patch": 13
+  },
+  "logoURI": "https://bccscan.com/static/header-logo.svg",
+  "keywords": [
+    "pancakeswap",
+    "top 100"
+  ],
+  "tokens": [
+    {
+      "name": "Demo Token",
+      "symbol": "Token",
+      "address": "0xAFf8dD89aB4EcD1630e81cA395be955134f42B46",
+      "chainId": 639054,
+      "decimals": 18
+    },
+    {
+      "name": "BCUSD TOKEN",
+      "symbol": "BCUSD",
+      "address": "0x3170cFa5B8cfD091ea15EB10f20307DB2FD9b7B8",
+      "chainId": 639054,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/blokistachain/assets/main/blockchains/BCC/assets/0x3170cFa5B8cfD091ea15EB10f20307DB2FD9b7B8/logo.png"
+    },
+    {
+      "name": "AVC",
+      "symbol": "AVC",
+      "address": "0xEB9E696Ff9F1b85c0Dd999a40c73b95fabe0f9E2",
+      "chainId": 639054,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/blokistachain/assets/main/blockchains/BCC/assets/0xEB9E696Ff9F1b85c0Dd999a40c73b95fabe0f9E2/logo.png"
+    }
+  ]
+}
